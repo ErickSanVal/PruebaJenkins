@@ -428,7 +428,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441669380714</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Solved git issues again">
+      <created>1441669478196</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1441669478196</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -476,7 +482,8 @@
     <MESSAGE value="Added Hola class" />
     <MESSAGE value="Added NoHola Test" />
     <MESSAGE value="Solved git issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved git issues" />
+    <MESSAGE value="Solved git issues again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved git issues again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
