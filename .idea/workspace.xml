@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b27ca37-06a1-4836-a2ff-a12e9324a37c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PruebaJenkins.iml" afterPath="$PROJECT_DIR$/PruebaJenkins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Hola.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/HolaTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PruebaJenkins.iws" />
@@ -414,7 +414,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441668117813</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added NoHola Test">
+      <created>1441669274018</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1441669274018</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -460,7 +466,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Maven skeleton" />
     <MESSAGE value="Added Hola class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Hola class" />
+    <MESSAGE value="Added NoHola Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added NoHola Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
