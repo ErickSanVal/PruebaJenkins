@@ -12,7 +12,7 @@ public class HolaTest {
     @Test
     public void getNoHolaTest(){
         Hola hola = new Hola();
-        assertNotEquals("Hola", hola.getHola());
+        assertNotEquals("Hola1", hola.getHola());
     }
 
 }
